@@ -6,9 +6,10 @@ export default defineUserConfig({
   title: "Mosaic-Plus",
   description: "Just playing around",
   theme: recoTheme({
+    home: '/Home',
     style: "@vuepress-reco/style-default",
     logo: "/logo.png",
-    author: "reco_luan",
+    author: "捡破烂的小z",
     authorAvatar: "/head.png",
     docsRepo: "https://github.com/vuepress-reco/vuepress-theme-reco-next",
     docsBranch: "main",
